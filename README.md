@@ -30,8 +30,6 @@ Review and Create IAM User
 Include the commands used in the Experiment.
 
 ## OUTPUT
-<img width="1038" height="502" alt="image" src="https://github.com/user-attachments/assets/7dd0c84c-6ab5-46d7-8eac-d14dd2c73492" />
-
 <img width="1257" height="916" alt="Screenshot 2026-10-23 084403" src="https://github.com/user-attachments/assets/09eaad9b-2bb3-44c2-b45c-9117f10cf040" />
 
 ### REG NUMBER:212225240030
