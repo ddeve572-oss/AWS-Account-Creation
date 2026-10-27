@@ -2,7 +2,7 @@
   ## AIM
           To Create an Account in AWS Set up a Root user and an IAM user.
 ## PROBLEM STATEMENT
-   This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the      main account's root credentials.
+          This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the      main account's root credentials.
 
 ## ALGORITHM
  ### Steps 1:
